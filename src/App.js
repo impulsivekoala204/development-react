@@ -1,8 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import {useEffect, useState} from 'react';
 import * as React from 'react';
-import { NextUIProvider } from '@nextui-org/react';
 import { Checkbox } from '@nextui-org/react';
 import { Grid, Card, Button } from '@nextui-org/react';
 
