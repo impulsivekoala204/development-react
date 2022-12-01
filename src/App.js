@@ -85,7 +85,7 @@ export function Main(){
       vegan: "Vegan"
     },
     {
-      name: "Filled Donuts",
+      name: "Stuffed Donuts",
       url: "https://imgs.search.brave.com/tK66BKdWVabZyniR5LfUCLChf1aVbs9aGwB9UuYvBtI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zLmlu/eW91cnBvY2tldC5j/b20vZ2FsbGVyeS9r/cmFrb3cvMjAxOS8w/OS9wYWN6a2ktcGhv/dG9ieS1haXJib3Ju/ZTc3LmpwZw",
       price: 5,
       gluten: "Gluten Free",
