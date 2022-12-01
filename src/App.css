@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+#options-bar{
+  margin-left:3vw;
+  margin-top:6vh;
+}
+#cart{
+  margin-left:3vw;
+}
+#scroll{
+  position:fixed;
+  overflow-y: scroll;
+  max-height:100vh;
+}
+#scroll::-webkit-scrollbar {
+  display: none;
+}
+
+#cards{
+  margin-left:30vw;
+  position:relative;
+  margin-top:5vh;
+}
+.head{
+  margin-left:3vw;
+  color:#427BD2;
+  margin-top:1vh;
+  text-decoration: wavy;
+  position:fixed;
+}
